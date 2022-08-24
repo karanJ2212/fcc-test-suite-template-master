@@ -61,3 +61,23 @@ body {
   flex-direction: column;
   align-items: center;
 }
+}
+
+#headline {
+  margin: 5rem 0;
+  text-align: center;
+}
+
+#main-list {
+  max-width: 55rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  margin-bottom: 5rem;
+}
+
+#quote {
+  max-width: 54.5rem;
+  margin: 0 auto 50px auto;
+}
