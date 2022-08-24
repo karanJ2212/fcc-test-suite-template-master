@@ -18,3 +18,24 @@ body {
 #main {
   margin: 3rem 0.8rem;
 }
+.header {
+  background-color: #eee;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 10rem;
+}
+
+#title {
+  display: inline-block;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+}
+
+.title-text {
+  font-size: 2rem;
+}
